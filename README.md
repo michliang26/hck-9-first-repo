@@ -5,8 +5,6 @@ this is my first time writing a repo
 
 this was modified in local
 
-another one
-
-another test
-
-print "hello"
+git add
+git commit -m "<message>"
+git push origin <branch>
